@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+  font-size: 1vw;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  
+}
+
+body {
+  background: linear-gradient(45deg, #0ea5e9, #f472b6);
+}
